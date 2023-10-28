@@ -1,0 +1,6 @@
+wheel
+numpy
+scikit-learn
+opencv-python
+matplotlib
+tensorflow-cpu
